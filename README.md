@@ -18,6 +18,23 @@ Hecho
  - Prototipo básico:
 Implementar el movimiento del jugador y la cámara en tercera persona en un entorno simple (por ejemplo, un plano).
 
+![Captura de pantalla 2025-02-18 204259](https://github.com/user-attachments/assets/9b255599-7f31-4794-9a2a-4bd3d8355652)
+
+
+
+![Captura de pantalla 2025-02-18 204313](https://github.com/user-attachments/assets/7a9811cd-ab4e-4b95-a96e-6596ecb7d9b6)
+
+
+
+![Captura de pantalla 2025-02-18 204348](https://github.com/user-attachments/assets/a4813335-3daa-4e40-a483-493e771c5fdd)
+
+
+
+![Captura de pantalla 2025-02-18 204357](https://github.com/user-attachments/assets/5a4602a0-09c9-4c73-a211-1d03eb2e854b)
+
+
+
+
 ## Problemas y soluciones
 
 - Salto infinito
